@@ -1,0 +1,365 @@
+ [31merror[39m   18:11:43 An Error while trying to connect to databse ==> Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+timestamp : 18:13:23 level : [31merror[39m 
+ message: An Error while trying to connect to databse ==> Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+timestamp : 18:14:16 
+ level : [31merror[39m 
+ message: An Error while trying to connect to databse ==> Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+timestamp : 18:14:33 
+level : [31merror[39m 
+message: An Error while trying to connect to databse ==> Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+timestamp : 18:24:09 
+level : [31merror[39m 
+message: An Error while trying to connect to databse ==> Error: ER_BAD_DB_ERROR: Unknown database 'logist_db'
+timestamp : 18:24:41 
+level : [31merror[39m 
+message: Connected
+10:21:16 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:16 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:16 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:16 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:16 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:16 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:17 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:17 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:17 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:17 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:17 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:17 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:17 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:17 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:17 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:17 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:18 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:18 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:18 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:18 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:19 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:19 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:19 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:19 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:20 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:20 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:20 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:20 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:21 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:21 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:21 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:21 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:22 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:22 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:22 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+10:21:22 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:45 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:45 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:45 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:45 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:45 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:45 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:46 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:46 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:46 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:46 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:46 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:46 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:46 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:46 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:46 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:46 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:47 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:47 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:47 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:47 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:48 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:48 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:48 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:48 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:49 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+22:28:49 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:37:27 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:37:27 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:37:27 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:37:27 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:37:27 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:37:27 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:37:27 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:37:27 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:37:27 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:37:27 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:37:27 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:37:27 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:37:28 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:37:28 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:37:28 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:37:28 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:37:28 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:37:28 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:44:15 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:44:15 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:44:15 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:44:15 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:44:15 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:44:16 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:44:16 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:44:16 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:44:16 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:44:17 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:44:17 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:44:18 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:44:18 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+23:44:19 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+12:07:04 [[31merror[39m] An Error while trying to connect to databse ==> Error: ER_BAD_DB_ERROR: Unknown database 'logist_db'
+13:44:30 [[31merror[39m] redis Connected
+13:44:32 [[31merror[39m] redis Connected
+14:01:53 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+14:02:25 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+14:02:53 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+14:20:43 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+14:22:06 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+14:56:30 [[31merror[39m] The 'To' number  is not a valid phone number.
+14:56:30 [[31merror[39m] The 'To' number  is not a valid phone number.
+14:56:31 [[31merror[39m] The 'To' number  is not a valid phone number.
+14:56:32 [[31merror[39m] The 'To' number  is not a valid phone number.
+14:56:34 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+14:57:33 [[31merror[39m] The 'To' number  is not a valid phone number.
+14:57:34 [[31merror[39m] The 'To' number  is not a valid phone number.
+14:57:35 [[31merror[39m] The 'To' number  is not a valid phone number.
+14:57:36 [[31merror[39m] The 'To' number  is not a valid phone number.
+14:57:37 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+14:58:55 [[31merror[39m] The 'To' number  is not a valid phone number.
+14:58:56 [[31merror[39m] The 'To' number  is not a valid phone number.
+14:58:57 [[31merror[39m] The 'To' number  is not a valid phone number.
+14:58:58 [[31merror[39m] The 'To' number  is not a valid phone number.
+14:58:59 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+15:01:54 [[31merror[39m] The 'To' number  is not a valid phone number.
+15:01:55 [[31merror[39m] The 'To' number  is not a valid phone number.
+15:01:56 [[31merror[39m] The 'To' number  is not a valid phone number.
+15:01:57 [[31merror[39m] The 'To' number  is not a valid phone number.
+15:01:58 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+15:03:49 [[31merror[39m] The 'To' number  is not a valid phone number.
+15:03:49 [[31merror[39m] The 'To' number  is not a valid phone number.
+15:03:50 [[31merror[39m] The 'To' number  is not a valid phone number.
+15:03:51 [[31merror[39m] The 'To' number  is not a valid phone number.
+15:03:53 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+15:07:33 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+15:09:05 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+15:10:26 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+15:13:15 [[31merror[39m] The 'To' number  is not a valid phone number.
+15:13:16 [[31merror[39m] The 'To' number  is not a valid phone number.
+15:13:17 [[31merror[39m] The 'To' number  is not a valid phone number.
+15:13:18 [[31merror[39m] The 'To' number  is not a valid phone number.
+15:14:37 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+15:15:21 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+15:15:34 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+15:15:35 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+15:15:47 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:15:13 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:13 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:13 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:13 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:14 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:14 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:14 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:14 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:15 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:15 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:16 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:16 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:17 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:17 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:18 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:18 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:19 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:19 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:20 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:20 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:21 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:21 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:22 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:22 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:23 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:23 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:24 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:24 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:25 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:15:25 [[31merror[39m] redis client err => Error: connect ECONNREFUSED 127.0.0.1:6379
+20:18:17 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:18:18 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:18:30 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:20:21 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:20:22 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:20:34 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:22:25 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:24:04 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:24:10 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:24:30 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:24:31 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:28:29 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:30:06 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:39:27 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:41:21 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:43:54 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:45:21 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:53:52 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:59:51 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:02:20 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:05:20 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:06:26 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:08:03 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:09:06 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:09:58 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:10:33 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:11:36 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:12:15 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:13:57 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:14:34 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:18:12 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:18:41 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:20:44 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:21:33 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:22:10 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:22:34 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:22:53 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:25:13 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:25:45 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:26:34 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:27:05 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:27:33 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:28:30 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:30:31 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:34:47 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:35:41 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:39:59 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:40:50 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:41:45 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:43:35 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+21:47:49 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+22:06:42 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:30:11 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:31:13 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:32:25 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:33:23 [[31merror[39m] getaddrinfo ENOTFOUND api.twilio.com
+00:33:51 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:35:03 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:35:48 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:36:31 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:38:28 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:38:49 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:40:18 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:41:18 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:43:11 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:45:21 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:47:32 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:48:37 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:49:16 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:49:53 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:51:26 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:53:43 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:54:05 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:54:44 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:55:24 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:56:17 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:57:32 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:58:28 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+00:59:36 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:01:24 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:02:20 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:03:20 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:04:13 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:04:59 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:05:54 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:07:02 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:07:41 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:08:32 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:09:04 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:10:59 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:11:56 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:12:33 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:13:38 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:14:25 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:15:57 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:16:44 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:17:18 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:18:17 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:22:44 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:23:19 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:24:04 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:24:54 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:25:12 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:25:45 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:26:07 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:27:16 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:27:56 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:30:06 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:30:33 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:32:57 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:33:20 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:33:46 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:35:04 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:36:10 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:36:37 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:36:59 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:37:35 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:38:02 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:38:33 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:38:54 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:39:13 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:40:14 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:40:41 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:41:22 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:42:07 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:44:30 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:46:55 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:47:31 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:48:08 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:49:04 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+10:51:21 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+10:51:21 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+10:51:21 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+10:51:21 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+10:51:21 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+10:51:22 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+10:51:22 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+10:51:22 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+10:51:22 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+10:51:23 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+10:51:23 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+10:51:24 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+10:51:24 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+10:51:25 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+10:51:25 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+11:01:35 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:55:53 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+23:21:07 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+16:58:11 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+16:58:11 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+16:58:11 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+16:58:11 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+16:58:12 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+16:58:12 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+16:58:12 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+16:58:12 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+16:58:13 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+16:58:13 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+16:58:14 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+16:59:04 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:31:30 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+20:31:30 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+20:31:31 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+20:31:31 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+20:31:31 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+20:31:31 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+20:31:31 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+20:31:32 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+20:31:32 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+20:31:32 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+20:31:33 [[31merror[39m] connect ECONNREFUSED 127.0.0.1:6379
+21:29:59 [[31merror[39m] An Error while trying to connect to databse ==> Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+13:25:48 [[31merror[39m] read ECONNRESET
+17:03:49 [[31merror[39m] read ECONNRESET
+20:03:48 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+20:04:19 [[31merror[39m] The From phone number +19896234080 is not a valid, SMS-capable inbound phone number or short code for your account.
+01:10:16 [[31merror[39m] read ECONNRESET
+03:11:03 [[31merror[39m] read ECONNRESET
+04:17:20 [[31merror[39m] An Error while trying to connect to databse ==> Error: connect ETIMEDOUT
+15:32:48 [[31merror[39m] An Error while trying to connect to databse ==> Error: connect ETIMEDOUT
+15:33:14 [[31merror[39m] An Error while trying to connect to databse ==> Error: connect ETIMEDOUT
